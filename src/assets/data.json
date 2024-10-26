@@ -1,0 +1,37 @@
+{
+    "projects": [
+      {
+        "date": "05/10/2024",
+        "title": "CELESTIAL MOVEMENT",
+        "description": "Created a celestial animation with JavaScript and HTML Canvas, where nearby particles connect dynamically, simulating orbital and gravitational interactions",
+        "url": "https://madhu-ku.github.io/particles_movement/",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yUhg6uuTV1_TenZ1sPVnAL3p5lH9P6hF2g&s"
+      },
+  
+      {
+        "date": "15/07/2024",
+        "title": "MATRIX RAIN",
+        "description": "Developed a 'Matrix Rain' animation using JavaScript, CSS, and HTML Canvas, displaying falling letters, numbers, and symbols in cascading motion. This project showcases interactive effects and smooth animation for an engaging, dynamic visual experience.",
+        "url": "https://madhu-ku.github.io/matrix-rain/",
+        "imgSrc": "https://pic.pikbest.com/01/95/86/04m888piC8sn.jpg!w340"
+      },
+     
+  
+      {
+        "date": "17/07/2024",
+        "title": "REACT CART",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://react-cart-eosin.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "20/07/2024",
+        "title": "PORTFOLIO",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
+
+  
